@@ -1,2 +1,2 @@
-# laralvel-roast
+# laravel-roast
 laravel learn demo
